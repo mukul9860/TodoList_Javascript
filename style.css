@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(117, 94, 247);
+}
+.box{
+    width: 50%;
+    margin-left: 25%;
+    border: 1px solid rgb(173, 173, 173);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 10px;
+    background-color: lightyellow;
+}
+.strike{
+    text-decoration: line-through;
+    background-color: rgb(165, 216, 165) !important;
+}
+.li{
+    background-color: #e6e4e4;
+    border-radius: 3px;
+    padding-top: 10px;
+    margin-top: 10px;
+    padding-bottom: 10px;
+    overflow: hidden;
+  }
